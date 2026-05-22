@@ -1,0 +1,8 @@
+logs/*
+logs
+*.log
+*.log.*
+*.log.gz
+/PortableGit/
+/userdata/
+sync.bat
